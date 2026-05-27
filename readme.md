@@ -379,3 +379,4 @@ Posibilități de îmbunătățire:
 \[3\] Documentație, librăria NumPy, <https://numpy.org/>
 \[4\] Documentație, librăria PyQt5, <https://www.riverbankcomputing.com/static/Docs/PyQt5/>
 \[5\] Manual Clips, CLIPS Reference Manual Volume I Basic Programming Guide, Version 6.30 March 17th 2015
+

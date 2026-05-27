@@ -379,3 +379,4 @@ Possibilities for improvement:
 \[3\] Documentation, NumPy library, <https://numpy.org/>\
 \[4\] Documentation, PyQt5 library, <https://www.riverbankcomputing.com/static/Docs/PyQt5/>\
 \[5\] Clips Manual, CLIPS Reference Manual Volume I Basic Programming Guide, Version 6.30 March 17th 2015
+
